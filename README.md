@@ -11,7 +11,7 @@ Your friendly neighborhood 🕸️dev
 * ✉️  You can contact me at [stanley.chisom042@gmail.com](mailto:stanley.chisom042@gmail.com)
 * 🧠  I'm learning the MERN stack
 
-<a href="https://www.twitter.com/trojanncodes" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/logic__gates" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/trojanncodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
